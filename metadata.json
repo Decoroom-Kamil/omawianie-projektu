@@ -1,0 +1,6 @@
+{
+  "name": "Remix pod github",
+  "description": "Mobilna checklista omawiania projektu z danymi technicznymi, przyciskami TAK/NIE/NIE DOTYCZY, generowaniem PDF oraz podpisami rysikiem/palcem architekta i koordynatora.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
